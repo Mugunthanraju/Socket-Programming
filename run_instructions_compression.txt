@@ -1,0 +1,5 @@
+Instructions to run program:
+
+1. Run "python server_compression.py" on a system to open connection
+2. On other system in client file, change tosend to name of file to be sent. Also change host to IP address of server in case both systems are connected to the same network
+3. Run "python client_compression.py" to establish connection with the server.
