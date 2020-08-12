@@ -1,6 +1,6 @@
 # Socket-Programming
 
-Application 1 - File Compression
+#### Application 1 - File Compression
 
 The client in this application sends files to the server which are compressed using Lempel-Ziv compression technique and sent back to the client.
 
@@ -11,7 +11,7 @@ The established sockets were working seamlessly and we were getting fully lossle
 This is an iterative server since queries are handled sequentially as opposed to parallel.
 
 
-Application 2 - Data Link Layer
+#### Application 2 - Data Link Layer
 
 Implemented Go-back-n protocol
 In the go-back-n protocol, then sender continues to send frames till a window size (which is
